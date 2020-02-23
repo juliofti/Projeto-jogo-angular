@@ -1,6 +1,7 @@
 # App1
 
 This project was generated with [Angular CLI]version 9.0.2.
+Access available : https://juliofti.github.io/Projeto-jogo-angular/
 
 ## Development server
 
@@ -17,6 +18,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Download or clone this repository using git clone https://github.com/juliofti/Projeto-Jogo-Angular4.git
 Within the directory, install the dependencies using npm install.
 
+Access available : https://juliofti.github.io/Projeto-jogo-angular/
 
 ## Build
 
